@@ -18,7 +18,7 @@ A lightweight Spotify downloader that **doesn’t rely on `spotdl`**, but makes 
 ## 💻 Installation
 
 ```bash
-git clone https://github.com/Lum1xi/SpotifDownloader.git
+git clone https://github.com/Lum1xi/SpotifyDownloader.git
 
 cd SpotifDownloader
 
