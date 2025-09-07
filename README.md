@@ -26,6 +26,7 @@ pip install -r requirements.txt
 
 spotdl --download-ffmpeg
 
+python3 main.py
 ```
 ## 🔗My Link
 
