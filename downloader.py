@@ -16,7 +16,7 @@ def download(url,):
         return None
 
     print("Starting download...")
-    command = ["python3", "-m", "spotdl", url, "--output", folder]
+    command = ["spotdl", url, "--output", folder]
 
     try:
         subprocess.run(command, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
