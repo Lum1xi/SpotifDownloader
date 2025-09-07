@@ -24,6 +24,8 @@ cd SpotifDownloader
 
 pip install -r requirements.txt
 
+spotdl --download-ffmpeg
+
 ```
 ## 🔗My Link
 
